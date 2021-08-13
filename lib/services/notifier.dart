@@ -11,12 +11,12 @@ class Notifications {
     String accessToken;
     var accountCredentials = ServiceAccountCredentials.fromJson({
       "type": "service_account",
-      "private_key_id": "486164611f362fb211f76352e37a9bf28fd1f953",
+      "private_key_id": "",
       "private_key":
           "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
       "client_email":
-          "firebase-adminsdk-aceyg@connected-community-app-8b5db.iam.gserviceaccount.com",
-      "client_id": "109429372876200393804",
+          "",
+      "client_id": "",
     });
     var scopes = ['https://www.googleapis.com/auth/firebase.messaging'];
     var client = http.Client();
@@ -32,12 +32,12 @@ class Notifications {
   sendNotif(body) async {
     final accountCredentials = ServiceAccountCredentials.fromJson({
       "type": "service_account",
-      "private_key_id": "486164611f362fb211f76352e37a9bf28fd1f953",
+      "private_key_id": "",
       "private_key":
           "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
       "client_email":
-          "firebase-adminsdk-aceyg@connected-community-app-8b5db.iam.gserviceaccount.com",
-      "client_id": "109429372876200393804",
+          "",
+      "client_id": "",
     });
     var scopes = ['https://www.googleapis.com/auth/firebase.messaging'];
     String accessToken = await getAccessToken();
@@ -47,7 +47,7 @@ class Notifications {
         .then((AuthClient client) async {
       // [client] is an authenticated HTTP client.
       http.Response response = await client.post(
-        'https://fcm.googleapis.com/v1/projects/connected-community-app-8b5db/messages:send?key=AIzaSyA5KE2KCrSfmYDfL7D9t3zQW9rzuR6ssrU',
+        'https://fcm.googleapis.com/v1/projects/connected-community-app-8b5db/messages:send?key=',
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Bearer ' + accessToken,
