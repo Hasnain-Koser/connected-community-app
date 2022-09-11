@@ -19,8 +19,6 @@ Firebase was used as a NoSQL database and backend, with FireAuth for user authen
 
 ## Application Screenshots
 
-![2021-03-31_14h20_03](https://user-images.githubusercontent.com/56708015/189520777-710da52d-63e6-482a-873f-87d41502ec33.png)
-
 <table>
   <tr>
     <td>Cover Screen</td>
@@ -28,9 +26,9 @@ Firebase was used as a NoSQL database and backend, with FireAuth for user authen
     <td>Sign In Screen</td>
   </tr>
   <tr>
-    <td>![Cover Screen](https://user-images.githubusercontent.com/56708015/189520487-c7c17b33-2894-4f99-8bd2-f3f39c94a42b.png)</td>
-    <td>![Sign Up Screen](https://user-images.githubusercontent.com/56708015/189520506-253abbda-955f-4707-8fe2-5ad28abd33f8.png)</td>
-    <td>![Sign In Screen](https://user-images.githubusercontent.com/56708015/189520535-da3771a3-b528-4f11-a745-ab9a91856307.png)</td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520487-c7c17b33-2894-4f99-8bd2-f3f39c94a42b.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520506-253abbda-955f-4707-8fe2-5ad28abd33f8.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520535-da3771a3-b528-4f11-a745-ab9a91856307.png" width=270 height=330></td>
   </tr>
   <tr>
     <td>Home Screen</td>
@@ -38,9 +36,9 @@ Firebase was used as a NoSQL database and backend, with FireAuth for user authen
     <td>Help Screen</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>![Help Screen](https://user-images.githubusercontent.com/56708015/189520793-8a831eaf-ef77-47aa-8522-10e767e3b21c.png)</td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189523280-099d06c9-94e0-4661-acca-283b5d10b08b.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189523358-0ecd10c7-0516-4548-93b2-5774b4241d1e.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520793-8a831eaf-ef77-47aa-8522-10e767e3b21c.png" width=270 height=590></td>
   </tr>
   <tr>
     <td>Event Timeline</td>
@@ -48,9 +46,9 @@ Firebase was used as a NoSQL database and backend, with FireAuth for user authen
     <td>Services Screen</td>   
   </tr>
   <tr>
-    <td>![Event Timeline](https://user-images.githubusercontent.com/56708015/189520715-a679c042-a78a-4e41-a3a9-81ffa01ff81c.png)</td>
-    <td></td>
-    <td>![Services Screen](https://user-images.githubusercontent.com/56708015/189520671-8206e516-a409-4f14-a8ae-5bf569c0eec3.png)</td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520715-a679c042-a78a-4e41-a3a9-81ffa01ff81c.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189523565-f4894339-f263-428a-b340-afbf9e99fd10.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520671-8206e516-a409-4f14-a8ae-5bf569c0eec3.png" width=270 height=590></td>
   </tr>
   <tr>
     <td>Personal Chat</td>
@@ -58,9 +56,9 @@ Firebase was used as a NoSQL database and backend, with FireAuth for user authen
     <td>Community Posts</td>
   </tr>
   <tr>
-    <td>![2021-03-31_10h38_46](https://user-images.githubusercontent.com/56708015/189520750-4a8343bd-5dc1-4e5e-9311-636636d6fa8b.png)</td>
-    <td>![2021-03-31_14h19_13](https://user-images.githubusercontent.com/56708015/189520756-c9c9dd94-2bb5-46bf-b81a-6512c363a793.png)</td>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520750-4a8343bd-5dc1-4e5e-9311-636636d6fa8b.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520756-c9c9dd94-2bb5-46bf-b81a-6512c363a793.png" width=270 height=590></td>
+    <td><img src="https://user-images.githubusercontent.com/56708015/189520777-710da52d-63e6-482a-873f-87d41502ec33.png" width=270 height=590></td>
   </tr>
  </table>
 
