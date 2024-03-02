@@ -1,4 +1,4 @@
-# connected-community-app
+# Connected Community Application
 
 ## Inspiration
 
