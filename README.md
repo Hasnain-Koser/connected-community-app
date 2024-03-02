@@ -11,7 +11,7 @@ I was able to notice a similar problem with the housing society that I reside in
 The application is generally built to connect a community through various means. It has management as well as communication features. Society admins can manage users and setup notices and events and handle or resolve complaints. The residents have multiple means of communication where they can chat with either specific users or the whole community and can also setup community posts. In order to help each other, residents can also setup community services and contact each other regarding the same in-app. New users and residents are greeted with a informational video to help accomodate them better into the community.
 
 
-## How we built it
+## How it was built
 
 The application was built with Flutter and Dart, using Firebase as a backend. It was created using flutter to better optimize the reach of the application to both iOS and Android devices. The project has a structured folder layout with a highly flexible design pattern to allow for flexibility for any future updates and changes to be made to the application.
 
